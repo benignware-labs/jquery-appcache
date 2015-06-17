@@ -1,2 +1,4 @@
 # jquery.appcache
-JQuery ApplicationCache Loader
+> JQuery ApplicationCache Loader
+
+This package is currently in development
